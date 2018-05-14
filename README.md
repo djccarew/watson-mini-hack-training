@@ -16,7 +16,7 @@ These are the instructions and all supporting files for the hands-on-lab exercis
 The hands on lab exercises are:
 
 ### Lab 1 - Watson Assistant (formerly Watson Conversation)
-In this lab, you will familiarize yourself with the Watson Assistant service tooling by develping a chatbot from  scratch and then extending an existing chatbot.
+In this lab, you will familiarize yourself with the Watson Assistant service tooling by developing a chatbot from  scratch and then extending an existing chatbot.
 
 Follow the instructions at the link below to complete the lab.
 
