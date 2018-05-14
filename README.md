@@ -1,7 +1,7 @@
 # Watson Mini Hack Training
 ====================================
 
-This project is used to support  Watson  training sessions at various clients conductcd by IBM Developer Advocates. Because this is a public repo, it contains no client specific information. Note however that  the content may be updated over time to support different training sessions. It is  therefore recommended that you clone  the project at the time of your training session so the material will match the agenda of your session.
+This project is used to support  Watson  training sessions at various clients conducted by IBM Developer Advocates. Because this is a public repo, it contains no client specific information. Note however that  the content may be updated over time to support different training sessions. It is  therefore recommended that you clone  the project at the time of your training session so the material will match the agenda of your session.
 
 
 ## Watson Services Guide for Developers
